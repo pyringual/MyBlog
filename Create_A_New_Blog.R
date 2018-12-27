@@ -26,5 +26,6 @@ new_site()
 
 # fix some lines!!
 
+# finally build this site!
 build_site()
 
