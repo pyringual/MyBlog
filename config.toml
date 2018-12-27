@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 	name = "Dr.Kevin"
 	description = "Let's talk about something fun!"
-	bio = "Blogger & Data Scientist"
+	bio = "Data Scientist & Blogger"
 
 	# Enter optionally your twitter account
 	twitter = "drkevin22"

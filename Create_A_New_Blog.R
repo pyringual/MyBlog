@@ -1,4 +1,12 @@
 
+# set working directory
+setwd(dir = '~/Documents/GitHub')
+
+# create a new project in R
+library(usethis)
+create_project(path = 'MyBlog')
+
+
 # set up git
 library(usethis)
 use_git()
