@@ -21,10 +21,6 @@ new_site()
 # $ git commit -m 'Second commit'
 # $ git push -u origin master
 
-# change folder name 'public' to 'docs' and commit, push!
-# then, move to 'Github Pages' Source and select 'master branch /docs folder'
-
-
 # add below to config.toml file to make automation
 # PublishDir = "docs"
 

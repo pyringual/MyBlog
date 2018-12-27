@@ -1,10 +1,16 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "A Hugo website"
+baseurl = "https://MrKevinNa.github.io/MyBlog/"
+languageCode = "ko-KR"
+title = "Dr.Kevin's Blog"
 theme = "hugo-lithium"
-googleAnalytics = ""
-disqusShortname = ""
+googleAnalytics = "UA-110502686-1"
+disqusShortname = "drkevin22"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+PublishDir = "docs"
+enableEmoji = true
+canonifyruls = true
+hasCJKLanguage = true
+
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -12,15 +18,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
+
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/MrKevinNa"
+
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Facebook"
+    url = "https://www.facebook.com/drkevin22"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A Data Scientist in the marketing field from Seoul, Korea"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -32,8 +40,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     [params.logo]
-    url = "logo.png"
+    url = "profile.jpeg"
     width = 50
     height = 50
     alt = "Logo"
-
