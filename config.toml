@@ -55,7 +55,7 @@ disqusShortname = "drkevin22"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://twitter.com/drkevin22"
+    #twitter  = "https://twitter.com/drkevin22"
     facebook = "https://www.facebook.com/drkevin22"
     github   = "https://github.com/MrKevinNa"
     #dribble  = "https://www.dribbble.com/"
@@ -66,6 +66,5 @@ PublishDir = "docs"
 enableEmoji = true
 canonifyruls = true
 hasCJKLanguage = true
-
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
