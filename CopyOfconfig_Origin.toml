@@ -1,0 +1,46 @@
+baseurl = "https://MrKevinNa.github.io/MyBlog/"
+languageCode = "ko-KR"
+title = "Dr.Kevin's Blog"
+theme = "hugo-cactus-theme"
+googleAnalytics = "UA-110502686-1"
+disqusShortname = "drkevin22"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+PublishDir = "docs"
+enableEmoji = true
+canonifyruls = true
+hasCJKLanguage = true
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/MrKevinNa"
+
+[[menu.main]]
+    name = "Facebook"
+    url = "https://www.facebook.com/drkevin22"
+
+[params]
+    description = "A Data Scientist in the marketing field from Seoul, Korea"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    [params.logo]
+    url = "profile.jpeg"
+    width = 50
+    height = 50
+    alt = "Logo"
