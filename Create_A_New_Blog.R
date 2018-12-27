@@ -1,11 +1,16 @@
 
+# set up git
 library(usethis)
 use_git()
+
+# after restarting
+library(usethis)
 use_github(protocol = 'https', auth_token = Sys.getenv('GITHUB_TOKEN'))
 
 # remove R folder
 file.remove(x = 'R')
 
+# create a new blog
 library(blogdown)
 install_hugo()
 new_site()
