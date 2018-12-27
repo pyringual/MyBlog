@@ -24,8 +24,6 @@ new_site()
 # add below to config.toml file to make automation
 # PublishDir = "docs"
 
-# fix some lines!!
-
 # finally build this site!
 build_site()
 
