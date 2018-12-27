@@ -1,7 +1,7 @@
 baseurl = "https://MrKevinNa.github.io/MyBlog/"
 languageCode = "ko-KR"
 title = "Dr.Kevin's Blog"
-theme = "hugo-lithium"
+theme = "hugo-cactus-theme"
 googleAnalytics = "UA-110502686-1"
 disqusShortname = "drkevin22"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
