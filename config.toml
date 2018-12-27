@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = "https://MrKevinNa.github.io/MyBlog/"
+	home = "<Home>"
 	subscribe = ""
 
 	# Pagination links
@@ -55,10 +55,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	title404 = ""
 	subtitle404 = ""
 
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	# Choose a font for the social icons in the footer. E
+	# ither "mono-social" or "font-awesome"
 	iconFont = "mono-social"
-    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    socialIconStyle = "circle"
+
+  # The social icons can be styled differently
+  # if you use mono as font - circle, rounded, or empty
+  socialIconStyle = "circle"
 
 # Add additional social link entries underneath
 [social]
