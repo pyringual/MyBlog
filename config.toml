@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = "<Home>"
+	home = ""
 	subscribe = ""
 
 	# Pagination links
