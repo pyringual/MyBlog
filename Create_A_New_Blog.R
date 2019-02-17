@@ -33,5 +33,5 @@ new_site()
 # PublishDir = "docs"
 
 # finally build this site!
-build_site()
+blogdown::build_site()
 
