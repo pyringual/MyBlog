@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dr.Kevin&#39;s Blog</title>
-    <link>https://MrKevinNa.github.io/MyBlog/</link>
+    <title>Pyringual&#39;s Blog</title>
+    <link>https://pyringual.github.io/MyBlog/</link>
     <description>Recent content on Dr.Kevin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://MrKevinNa.github.io/MyBlog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pyringual.github.io/MyBlog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://MrKevinNa.github.io/MyBlog/about/</link>
+      <link>https://pyringual.github.io/MyBlog/about/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://MrKevinNa.github.io/MyBlog/about/</guid>
-      <description>Welcome to Dr.Kevin&amp;rsquo;s Blog!
+      <guid>https://pyringual.github.io/MyBlog/about/</guid>
+      <description>Welcome to Pyringual&amp;rsquo;s Blog!
 I hope you will enjoy every content in here.
 More Information I&amp;rsquo;ve been working for more than 16 years as a data analyst in the filed of marketing in various financial institutions. I&amp;rsquo;ve been using R, Python, and SAS for statistical modelling like machine learning, web crawling, and text mining. I got master degree in Database Marketing in 2002, and I&amp;rsquo;m looking for more chance to learn about AI.</description>
     </item>
     
     <item>
       <title>2018 프로야구 기사로본 이모저모 #1</title>
-      <link>https://MrKevinNa.github.io/MyBlog/post/2018-12-21-2018-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%A3%E1%84%80%E1%85%AE-%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%84%86%E1%85%A9/</link>
+      <link>https://pyringual.github.io/MyBlog/post/2018-12-21-2018-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%A3%E1%84%80%E1%85%AE-%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%84%86%E1%85%A9/</link>
       <pubDate>Fri, 21 Dec 2018 19:00:00 -0900</pubDate>
       
-      <guid>https://MrKevinNa.github.io/MyBlog/post/2018-12-21-2018-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%A3%E1%84%80%E1%85%AE-%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%84%86%E1%85%A9/</guid>
+      <guid>https://pyringual.github.io/MyBlog/post/2018-12-21-2018-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%A3%E1%84%80%E1%85%AE-%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%8C%E1%85%A5%E1%84%86%E1%85%A9/</guid>
       <description>2018년 프로야구는 SK 와이번즈의 우승으로 막을 내렸습니다. 그저 TV로만 가끔 관심 있는 경기를 시청하는 미지근한 팬의 한 명으로서, 올해 많은 고생을 한 프로야</description>
     </item>
     
