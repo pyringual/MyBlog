@@ -14,4 +14,4 @@ I've been working for more than 16 years as a data analyst in the filed of marke
 
 ### Contact me
 
-[drkevin2022@gmail.com](mailto:drkevin2022@gmail.com)
+[pyringual@gmail.com](mailto:pyringual@gmail.com)
